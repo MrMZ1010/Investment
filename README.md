@@ -27,14 +27,13 @@ Here's a brief overview of the projects included in this repository:
 1. Clone this repository to your local machine:
 
     ```
-    git clone https://github.com/MrMZ1010/Machine-Learning.git
-    cd Machine-Learning    
+    https://github.com/MrMZ1010/Investment-Projects.git    
     ```
 
-2. Navigate to the desired project folder(e.g. Gold-Price-Prediction):
+2. Navigate to the desired project folder(e.g. Gold-Price-Prediction project):
 
     ```
-    cd Investment/Gold-Price-Prediction
+    cd Investment-Projects/Gold-Price-Prediction
     ```
 
 3. Follow the instructions provided in the project's README to run the code, explore the notebooks, or analyze the data.
