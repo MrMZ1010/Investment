@@ -1,8 +1,8 @@
-import yfinance as yf  # Importing yfinance library for fetching stock data
-import pandas as pd  # Importing pandas library for data manipulation
-import matplotlib.pyplot as plt  # Importing matplotlib for plotting
-import seaborn as sns  # Importing seaborn for statistical visualization
-import datetime  # Importing datetime module for handling dates
+import yfinance as yf  
+import pandas as pd  
+import matplotlib.pyplot as plt 
+import seaborn as sns  
+import datetime  
 
 tickerSymbol = 'AAPL'  # Defining the stock ticker symbol
 tickerData = yf.Ticker(tickerSymbol)  # Getting data for the specified ticker symbol

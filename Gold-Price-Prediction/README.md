@@ -30,15 +30,15 @@ The data is split into training and testing sets, and a linear regression model 
 ## Results
 
 The results of the model are visualized using a scatter plot of the actual vs. predicted prices.
-![Result](Result.png)
+![Result](result.png)
 
 ## Usage
 
 Clone the repository and run the script to collect data, train the model, and visualize the results.
 
 ```bash
-git clone https://github.com/MrMZ1010/Investment-Projects.git
-cd Investment-Projects/Gold-Price-Prediction
+git clone https://github.com/MrMZ1010/Investment.git
+cd Investment/Gold-Price-Prediction
 pip install -r requirements.txt
 python Main.py
 ```

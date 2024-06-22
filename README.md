@@ -27,7 +27,7 @@ Here's a brief overview of the projects included in this repository:
 1. Clone this repository to your local machine:
 
     ```
-    https://github.com/MrMZ1010/Investment-Projects.git    
+    https://github.com/MrMZ1010/Investment.git    
     ```
 
 2. Navigate to the desired project folder(e.g. Gold-Price-Prediction project):

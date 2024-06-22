@@ -1,11 +1,11 @@
-import pandas as pd  # Importing pandas for data manipulation
-import numpy as np  # Importing numpy for numerical operations
-import yfinance as yf  # Importing yfinance library for fetching stock data
-import datetime  # Importing datetime module for handling dates
-from sklearn.model_selection import train_test_split  # Importing train_test_split for splitting data
-from sklearn.linear_model import LinearRegression  # Importing LinearRegression model
-from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score  # Importing evaluation metrics
-import matplotlib.pyplot as plt  # Importing matplotlib for plotting
+import pandas as pd  
+import numpy as np  
+import yfinance as yf  
+import datetime  
+from sklearn.model_selection import train_test_split  
+from sklearn.linear_model import LinearRegression  
+from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score  
+import matplotlib.pyplot as plt  
 
 # Getting today's date and date four years ago
 today = datetime.date.today()
