@@ -8,7 +8,7 @@ This project aims to analyze and visualize Apple (AAPL) stock prices using histo
 - [Data Collection](#data-collection)
 - [Feature Engineering](#feature-engineering)
 - [Analysis and Visualization](#analysis-and-visualization)
-- [Results](#results)
+- [Results](#results) 
 - [Usage](#usage)
 
 ## Introduction
