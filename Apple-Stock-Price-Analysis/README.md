@@ -48,7 +48,7 @@ The results of the analysis are visualized through the following plots:
 Clone the repository and run the script to collect data, perform the analysis, and visualize the results.
 
 ```bash
-git clone https://github.com/MrMZ1010/Investment-Projects.git
+git clone https://github.com/MrMZ1010/Investment.git
 cd Investment/Apple-Stock-Price-Analysis
 pip install -r requirements.txt
 python Main.py
