@@ -33,7 +33,7 @@ Here's a brief overview of the projects included in this repository:
 2. Navigate to the desired project folder(e.g. Gold-Price-Prediction project):
 
     ```
-    cd Investment-Projects/Gold-Price-Prediction
+    cd Investment/Gold-Price-Prediction
     ```
 
 3. Follow the instructions provided in the project's README to run the code, explore the notebooks, or analyze the data.
